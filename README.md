@@ -27,8 +27,8 @@ EJI data are from the [Environmental Justice Index (EJI)](https://www.atsdr.cdc.
 eaton_palisades_fires repository
 │   README.md: contains README code.
 │   220_blog_post.ipnyb: The blog post final code and output.
-│   220_blog_post.ipnyb: The blog post final code and output.
-│   220_blog_post.ipnyb: The blog post final code and output.
+│   hwk4_task2_false_color.ipynb: Code and output of false-color imagery work.
+│   section_8_social_dimensions.ipynb: Code and output of EJI work.
 Data are not pushed to github, this is the recommended file structure:
 │   .gitignore
 │   └── data folder
